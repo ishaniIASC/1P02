@@ -1,0 +1,13 @@
+body {
+  background-color: red
+}
+
+.firstpart{
+  color: green;
+  font-style: italic;
+}
+
+.secondpart{
+  font-size: 30px;
+  display: inline;
+}

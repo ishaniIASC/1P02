@@ -1,0 +1,9 @@
+.firsttext{
+  font-family: "Arial", sans-serif;
+  text-transform: uppercase;
+}
+.image{
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  }
