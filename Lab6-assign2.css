@@ -1,0 +1,49 @@
+body{
+  background-color: green;
+}
+
+#wrapper{
+  background-color:  green;
+  width: 1000px;
+  margin:0 auto;
+
+}
+
+#header{
+  background-color: red;
+  height:100px;
+  color:black;
+    text-align: center;
+
+}
+#content{
+  background-color: blue;
+  background-position: center;
+  height: 400px;
+  color:black;
+  padding-top: 16px;
+
+}
+
+#footer{
+  background-color: yellow;
+  height:100px;
+  color:black;
+  font-size: 20px;
+  padding-top: 16px;
+
+}
+
+.nav1{
+  background-color: pink;
+  height: :200px;
+      float:left;
+      width:25%;
+}
+
+.nav2{
+  background-color: orange;
+  height: :200px;
+  float:left;
+  width:75%;
+}

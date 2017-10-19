@@ -1,0 +1,26 @@
+#wrapper{
+  background-color: :white;
+  width: 1000px;
+}
+
+#header{
+  background-color: red;
+  height:50px;
+  font-size: 10px;
+  text-align: center;
+  color:  white;
+}
+
+#content{
+  background-color: green;
+  height: 400px;
+  color:white;
+  padding-top:10px;
+}
+
+#footer{
+  background-color: blue;
+  height:50px;
+  color:white;
+  padding-top:10px;
+}
