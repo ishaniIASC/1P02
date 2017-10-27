@@ -1,0 +1,57 @@
+
+.firstpara{
+   color: blue;
+}
+
+.listone{
+    font-size: 20px;
+}
+
+.secondpara{
+    font-family: "Book Antiqua";
+}
+
+.h1{
+    text-transform: uppercase;
+    position: relative;
+    left: 550px;
+}
+
+.h2{
+  position: relative;
+  left: 600px;
+}
+.h3{
+  position: relative;
+  left: 620px;
+}
+
+
+.box{
+  margin-top: 400px;
+  margin-bottom: 10px;
+  margin-left:50px;
+  margin-right: 50px;
+  border: red 3px solid;
+  padding: 10px 20%;
+}
+
+.firstpara,.secondpara{
+font-size: 20px;
+} /*Grouped selectors*/
+
+.div1{
+  color:red;
+} /*Nested selectors*/
+
+.pic{
+  position: absolute;
+  left: 450px;
+  }
+
+.pic1{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+}
