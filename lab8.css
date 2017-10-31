@@ -1,0 +1,39 @@
+.body {
+  background-color: #6699ff;
+}
+
+.h1{
+  font color: #ff6600;
+  font-size: 75px;
+  text-align: center;
+}
+
+.h2{
+  color: #ff9933;
+  font-size: 20px;
+  text-align: center;
+}
+
+.div1{
+  float: left;
+}
+.pic1{
+  height: 400px;
+  width: 300px;
+}
+
+.div2{
+  float:left;33%;
+  }
+.pic2{
+  height: 400px;
+  width:300px;
+}
+
+.div3{
+  float:right;
+  }
+.pic3{
+  height: 400px;
+  width:300px;
+}
